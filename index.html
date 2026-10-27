@@ -1,1 +1,0 @@
-# genlayer-fact-oracle
